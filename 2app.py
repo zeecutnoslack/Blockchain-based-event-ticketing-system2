@@ -1,3 +1,6 @@
+pip install flask
+python app.py
+
 from flask import Flask, request, jsonify
 from blockchain import Blockchain
 
